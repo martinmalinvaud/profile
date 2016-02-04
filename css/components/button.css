@@ -1,0 +1,21 @@
+/* Your button CSS code here */
+.btn-red{
+padding: 55px 75px;
+color: #ffffff;
+border: 2px solid #d33d27;
+padding: 15px 40px;
+border-radius: 0px;
+font-weight: bold;
+background: rgba(211, 61, 39, 1);
+transition: background 0.35s ease;
+width: 250px;
+margin: 0 auto;
+}
+
+.btn-red:hover {
+  opacity: 1;
+  background: rgba(211, 61, 39, 0.0);
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
